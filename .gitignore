@@ -2,6 +2,10 @@ node_modules/
 dist/
 .playwright-cli/
 tmp-e2e-downloads/
+.tmp/
+output/
+__pycache__/
+*.pyc
 *.local
 *.log
 npm-debug.log*
